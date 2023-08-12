@@ -1,6 +1,6 @@
 <div align="center"><h1>@YounginYoon</h1></div>
 <div align="center">
-  <br/><br/>
+  <br/>
   <div>
     <h3>🛠️</h3>
     <p>Techs that I've used at least once</p>
