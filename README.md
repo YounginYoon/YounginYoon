@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=FFC0CB&height=150&section=header&text=@YounginYoon&fontSize=60&fontAlignY=60&fontColor=FFFFFF" />
+  @YounginYoon
 
   <div>
     <h3>🛠️</h3>
