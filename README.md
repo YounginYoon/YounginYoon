@@ -1,5 +1,5 @@
 <div align="center">
-  @YounginYoon
+  <p style="font-size:10px">@YounginYoon</p>
 
   <div>
     <h3>🛠️</h3>
