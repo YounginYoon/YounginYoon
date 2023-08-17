@@ -33,7 +33,5 @@
 <a href="mailto:3ylsjlsj@gmail.com"><img src="https://img.shields.io/badge/Gmail-E95420?style=flat-square&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/younginyoon"><img src="https://img.shields.io/badge/Linkedin-0055FF?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/younginyoon"></a>
 <br/><br/>
-<div>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYounginYoon&count_bg=%23FFC0CB&title_bg=%23C49CB7&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
-</div>
+
 
