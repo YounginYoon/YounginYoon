@@ -1,4 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FFC0CB&height=130&text=%20@YounginYoon%20&animation=&fontColor=ffffff&fontSize=30&fontAlignY=40" />
+<div align="center">
+  <h3>Hi👋 I',m Youngin Yoon !</h3>
+</div>
+<br/>
 
 ### 🏫 Education
 - Major in Computer Science & Engineering at Sogang Univ. (Mar 2021 - Aug 2023)
