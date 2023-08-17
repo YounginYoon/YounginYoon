@@ -34,4 +34,6 @@
 <a href="https://www.linkedin.com/in/younginyoon"><img src="https://img.shields.io/badge/Linkedin-0055FF?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/younginyoon"></a>
 <br/><br/>
 
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=younginstudy&postId=default)](https://github.com/loosie/github-readme-tistory-card)
+
 
