@@ -28,7 +28,6 @@
 
 ### ✏️ Blog
   <a href="https://younginstudy.tistory.com"><img src="https://img.shields.io/badge/Tistory-010101?style=flat-square&logo=tistory&logoColor=white&link=https://younginstudy.tistory.com"></a>
-  <a href="https://blog.naver.com/3ylsj"><img src="https://img.shields.io/badge/Blog-4FC08D?style=flat-square&logo=naver&logoColor=white&link=https://blog.naver.com/3ylsj"></a>
 
 <br/>
 
