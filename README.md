@@ -5,7 +5,7 @@
 <br/>
 
 ### 🏫 Education
-- Major in Computer Science & Engineering at Sogang Univ. (Mar 2021 - Aug 2023)
+- Major in Computer Science & Engineering at Univ. (Mar 2021 - Aug 2023)
 - A 8th generation Cadet of 42 Seoul (Nov 2022 - Oct 2023)
 
 <br/>
