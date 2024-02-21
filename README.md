@@ -7,7 +7,7 @@
 ### 🏫 Education
 - Major in Computer Science & Engineering at Sogang Univ. (Mar 2021 - Aug 2023)
 - 8th generation Cadet of 42 Seoul (Nov 2022 - Oct 2023)
-- 5th generation Aivler of KT Aivle School_AI track (Feb 2024 - Aug 2024)
+- 5th generation Aivler of KT Aivle School [AI track] (Feb 2024 - Aug 2024)
 
 <br/>
 
