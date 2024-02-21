@@ -34,6 +34,5 @@
 ### 💬 Contact
 
 <a href="mailto:3ylsjlsj@gmail.com"><img src="https://img.shields.io/badge/Gmail-E95420?style=flat-square&logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/younginyoon"><img src="https://img.shields.io/badge/Linkedin-0055FF?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/younginyoon"></a>
 <br/><br/>
 
