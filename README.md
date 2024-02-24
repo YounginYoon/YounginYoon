@@ -1,6 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&color=A5D6A7&height=100&text=%20@YounginYoon%20&animation=&fontColor=ffffff&fontSize=30&fontAlignY=50" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=A5D6A7&height=100&text=%20@YounginYoon%20&animation=&fontColor=ffffff&fontSize=40&fontAlignY=50" />
 <div align="center">
-  <h3>Hi👋 I',m Youngin Yoon !</h3>
+  <h3>🥑 🥑 🥑</h3>
 </div>
 <br/>
 
@@ -32,7 +32,7 @@
   <a href="https://velog.io/@o_o_o/posts"><img src="https://img.shields.io/badge/Velog-31C48D?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@o_o_o/posts"></a>
 <br/>
 
-### 💬 Contact
+### 📩 Contact
 
 <a href="mailto:3ylsjlsj@gmail.com"><img src="https://img.shields.io/badge/Gmail-E95420?style=flat-square&logo=gmail&logoColor=white"></a>
 <br/><br/>
