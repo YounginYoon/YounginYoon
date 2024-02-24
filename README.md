@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=A5D6A7&height=150&text=%20@YounginYoon%20&animation=&fontColor=ffffff&fontSize=30&fontAlignY=40" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=A5D6A7&height=100&text=%20@YounginYoon%20&animation=&fontColor=ffffff&fontSize=30&fontAlignY=50" />
 <div align="center">
   <h3>Hi👋 I',m Youngin Yoon !</h3>
 </div>
