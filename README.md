@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&color=A5D6A7&height=100&text=%20@YounginYoon%20&animation=&fontColor=ffffff&fontSize=40&fontAlignY=50" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=A5D6A7&height=100&text=%20@YounginYoon%20&animation=&fontColor=ffffff&fontSize=35&fontAlignY=52" />
 <div align="center">
   <h3>🥑 🥑 🥑</h3>
 </div>
