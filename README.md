@@ -1,5 +1,4 @@
 <img src="https://capsule-render.vercel.app/api?type=transparent&fontSize=40&text=%20@YounginYoon%20&desc=BE%20Developer&descSize=15&fontColor=b8d986&fontAlignY=40&descAlign=60&descAlignY=65&animation=twinkling" />
-
 <br/>
 
 안녕하세요, 주니어 개발자 윤영인 입니다!
@@ -10,7 +9,6 @@
 - 🌐 서강 CNU 웹 개발 학회 (2022.07 - 2023.07)
 - 🧬 서강 ICPC 알고리즘 학회 (2022.03 - 2022.09)
 - 📚 Java 및 백엔드 개발 스택 공부 중
-
 <br/>
 
 ### 프로젝트
@@ -18,7 +16,6 @@
 - 💵 [[캡스톤디자인II] 아이돌 중고 굿즈 경매 거래 서비스](https://github.com/YounginYoon/Fandolee) (백엔드 개발, 데이터 가공 및 모델링 적용)
 - 📱 [[캡스톤디자인I] 거리 기반 친구 추천 안드로이드 어플리케이션](https://github.com/YounginYoon/FFU) (프론트엔드 개발, 애니메이션 변환 AI 기술 적용)
 - 💻 [[42서울] Bash Shell](https://github.com/YounginYoon/minishell) (명령어 Parsing, 시그널 핸들러 구현)
-
 <br/>
 
 ### 기술 스택
@@ -48,9 +45,12 @@
 ### 블로그
 - [Tistory] https://younginstudy.tistory.com
 - [Velog] https://velog.io/@o_o_o/posts
-
 <br/>
 
 ### 연락처
 - [이메일] 3ylsjlsj@gmail.com
+
+<br/>
+
+
 
