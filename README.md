@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=26&height=150&text=%20@YounginYoon%20&animation=&fontColor=ffffff&fontSize=35&fontAlignY=52" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:c5dcab,50:afd58a,100:87bf4e&height=150&text=%20@YounginYoon%20&animation=&fontColor=ffffff&fontSize=35&fontAlignY=52&stroke=91c55c&strokeWidth=1" />
 
 <br/>
-
+customColorList=26
 안녕하세요, 주니어 개발자 윤영인 입니다!
 
 - 🎓 서강대학교 컴퓨터공학과 학사 (졸업)
