@@ -14,10 +14,10 @@
 <br/>
 
 ### 프로젝트
-- 📽️ [[KT에이블스쿨] 기업 맞춤형 AI 면접 플랫폼 개발](https://github.com/YounginYoon/AIT_Backend) (백엔드 개발, AWS 인프라 유지보수)
-- 💵 [[캡스톤디자인II] 아이돌 중고 굿즈 경매 거래 서비스 개발](https://github.com/YounginYoon/Fandolee) (백엔드 개발, 데이터 가공 및 모델링 적용)
-- 📱 [[캡스톤디자인I] 거리 기반 친구 추천 안드로이드 어플리케이션 개발](https://github.com/YounginYoon/FFU) (프론트엔드 개발, 애니메이션 변환 AI 기술 적용)
-- 💻 [[42서울] Bash 쉡 개발 프로젝트](https://github.com/YounginYoon/minishell) (명령어 Parsing, 시그널 핸들러 구현)
+- 📽️ [[KT에이블스쿨] 기업 맞춤형 AI 면접 플랫폼](https://github.com/YounginYoon/AIT_Backend) (백엔드 개발, AWS 인프라 유지보수)
+- 💵 [[캡스톤디자인II] 아이돌 중고 굿즈 경매 거래 서비스](https://github.com/YounginYoon/Fandolee) (백엔드 개발, 데이터 가공 및 모델링 적용)
+- 📱 [[캡스톤디자인I] 거리 기반 친구 추천 안드로이드 어플리케이션](https://github.com/YounginYoon/FFU) (프론트엔드 개발, 애니메이션 변환 AI 기술 적용)
+- 💻 [[42서울] Bash Shell](https://github.com/YounginYoon/minishell) (명령어 Parsing, 시그널 핸들러 구현)
 
 <br/>
 
