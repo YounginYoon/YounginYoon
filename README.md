@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:c5dcab,50:afd58a,100:87bf4e&height=150&text=%20@YounginYoon%20&animation=&fontColor=ffffff&fontSize=35&fontAlignY=52&stroke=91c55c&strokeWidth=1" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontSize=40&text=%20@YounginYoon%20&desc=BE%20Developer&descSize=15&fontColor=9fc487&fontAlignY=40&descAlign=60&descAlignY=65&animation=twinkling" />
 
 <br/>
 
