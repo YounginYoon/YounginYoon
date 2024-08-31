@@ -18,6 +18,10 @@
 - 💻 [[42서울] Bash Shell](https://github.com/YounginYoon/minishell) (명령어 Parsing, 시그널 핸들러 구현)
 <br/>
 
+### 논문
+- 패스트 텍스트를 활용한 아이돌 상품 판매 가격 추천 시스템, 한국정보과학회, 2023 (주저자)
+<br/>
+
 ### 기술 스택
 
 <div>
